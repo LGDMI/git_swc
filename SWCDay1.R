@@ -42,9 +42,6 @@ install.packages("ggplot2")
 install.packages("plyr")
 install.packages("gapminder")
 
-
-2widths <- 654
-
 library(ggplot2)
 vignette (package = "ggplot2")
 vignette("ggplot2-specs")
